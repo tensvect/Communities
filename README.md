@@ -1,5 +1,5 @@
 ## Communities
-A list of all developer communities. By no means is this list exhaustive. 
+A list of all developer communities. By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you're new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------). 
 
 ### Communities based in Pune 
 * [Google Developer Group Pune](https://www.meetup.com/Pune-GDG/) 
@@ -22,12 +22,16 @@ A list of all developer communities. By no means is this list exhaustive.
 
 To see more communities, we highly recommend installing and using [Meetup](https://www.meetup.com/) 
 
+---
+
 ### General Communities and Groups
 * [Linux Users's Group of Durgapur](https://dgplug.org/) - Highly recommended. They run online training program every summer. 
 * [Google Developer Groups](https://developers.google.com/community/gdg/)
 * [Fedora Community](https://fedoraproject.org/wiki/Join) 
 * [Facebook Developer Circles](https://developers.facebook.com/developercircles/) 
 * [Microsoft Tech Communities](https://techcommunity.microsoft.com/)
+
+---
 
 
 ### Recommended Channels 
@@ -37,6 +41,7 @@ Please get used to in using these channels. Most of the communities interact and
 * [IRC](http://www.irchelp.org/) 
 * [Gitter](https://gitter.im/) 
 
+---
 
 Feel free to reach out to anyone of us mentioned below if you need any help, or wish to discuss anything, or perhaps just a random chat. Flashing conversations are something even we like. Yes, we do reply to emails.
 
