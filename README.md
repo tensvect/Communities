@@ -51,7 +51,7 @@ Feel free to reach out to anyone of us mentioned below if you need any help, or 
 ---
 
 # More by Tensvect
-- [Learning Resources](https://github.com/tensvect/Learning)
-- [Scholarship and Programs](https://github.com/tensvect/Scholarships-and-Programs)
-- [Conferences and Events](https://github.com/tensvect/conferences-and-events)
-- [Contributors](https://github.com/tensvect/Contributors)
+- [Learning Resources](https://tensvect.github.io/Learning)
+- [Scholarship and Programs](https://tensvect.github.io/Scholarships-and-Programs)
+- [Conferences and Events](https://tensvect.github.io/conferences-and-events)
+- [Contributors](https://tensvect.github.io/Contributors)
