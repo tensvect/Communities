@@ -29,3 +29,9 @@ Please get used to in using these channels. Most of the communities interact and
 * [Slack](https://slack.com/intl/en-in/)
 * [IRC](http://www.irchelp.org/) 
 * [Gitter](https://gitter.im/) 
+
+
+Feel free to reach out to anyone of us mentioned below if you need any help, or wish to discuss anything, or perhaps just a random chat. Flashing conversations are something even we like. Yes, we do reply to emails.
+
+* Jaydeep Borkar (jaijborkar@gmail.com)
+* Rohit Awate (rohitawate121@gmail.com)
