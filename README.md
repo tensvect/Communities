@@ -47,3 +47,11 @@ Feel free to reach out to anyone of us mentioned below if you need any help, or 
 
 * Jaydeep Borkar (jaijborkar@gmail.com)
 * Rohit Awate (rohitawate121@gmail.com)
+
+---
+
+# More by Tensvect
+- [Learning Resources](https://github.com/tensvect/Learning)
+- [Scholarship and Programs](https://github.com/tensvect/Scholarships-and-Programs)
+- [Conferences and Events](https://github.com/tensvect/conferences-and-events)
+- [Contributors](https://github.com/tensvect/Contributors)
