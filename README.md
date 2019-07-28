@@ -14,6 +14,11 @@ A list of all developer communities. By no means is this list exhaustive.
 * [Amazon Alexa Meetup Pune](https://www.meetup.com/Amazon-Alexa-Meetup-Pune/)
 * [GCDC Pune](https://www.meetup.com/GDG-Cloud-Pune/events/252022572/)
 * [Anita Borg Pune](https://community.anitab.org/groups/pune/)
+* [PyData Pune](https://www.meetup.com/PyData-Pune/) 
+* [PyLadies Pune](https://www.meetup.com/PyLadies-Pune/)
+* [Facebook Developer Circle Pune](https://developers.facebook.com/developercircles/find) 
+* [Swift Pune](https://www.meetup.com/Swift-Pune/) 
+
 
 To see more communities, we highly recommend installing and using [Meetup](https://www.meetup.com/) 
 
@@ -21,6 +26,8 @@ To see more communities, we highly recommend installing and using [Meetup](https
 * [Linux Users's Group of Durgapur](https://dgplug.org/) - Highly recommended. They run online training program every summer. 
 * [Google Developer Groups](https://developers.google.com/community/gdg/)
 * [Fedora Community](https://fedoraproject.org/wiki/Join) 
+* [Facebook Developer Circles](https://developers.facebook.com/developercircles/) 
+* [Microsoft Tech Communities](https://techcommunity.microsoft.com/)
 
 
 ### Recommended Channels 
